@@ -19,12 +19,15 @@
       </profile>
     </annotationProcessing>
   </component>
+<<<<<<< HEAD
   <component name="ComposerJsonPluginSettings">
     <unboundedVersionInspectionSettings>
       <excludedPackages />
     </unboundedVersionInspectionSettings>
     <customRepositories />
   </component>
+=======
+>>>>>>> origin/master
   <component name="JsBowerSettings">
     <exe-path>$USER_HOME$/AppData/Roaming/npm/bower.cmd</exe-path>
     <config-path />
@@ -36,9 +39,12 @@
       </MavenGeneralSettings>
     </option>
   </component>
+<<<<<<< HEAD
   <component name="ProjectDictionaryState">
     <dictionary name="THANHTUNG" />
   </component>
+=======
+>>>>>>> origin/master
   <component name="ProjectInspectionProfilesVisibleTreeState">
     <entry key="Project Default">
       <profile-state>
